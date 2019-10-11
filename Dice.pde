@@ -410,6 +410,6 @@ void show()
 	{
 		//your code here
     fill(255);
-    square(myX,myY,size);
+    rect(myX,myY,size,size);
 	}
 }
